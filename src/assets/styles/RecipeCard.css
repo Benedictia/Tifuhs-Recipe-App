@@ -17,3 +17,8 @@
     color: #007bff;
     text-decoration: none;
    }
+
+   img:hover {
+    transform: scale(1.05); 
+    filter: brightness(0.8); 
+  }
